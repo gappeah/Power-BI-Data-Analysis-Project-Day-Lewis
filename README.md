@@ -1,6 +1,8 @@
 # Power BI Data Analysis Project: Day Lewis
 
 ## Project Overview
+![Day Lewis-1](https://github.com/user-attachments/assets/941df68e-7293-404b-ab83-f10226ecab54)
+
 
 This project involves a comprehensive data analysis exercise using Power BI and an Excel dataset, aiming to explore key metrics and trends from the provided data. The project utilizes data cleaning, transformation, and visualization techniques to present insights for business decision-making.
 
